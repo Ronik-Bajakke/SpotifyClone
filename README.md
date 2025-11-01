@@ -1,6 +1,6 @@
 # 🎵 Spotify Clone
 
-![Amazon Clone Banner](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/banner.png)
+![Amazon Clone Banner](https://raw.githubusercontent.com/ronik-bajakke/SpotifyClone/main/banner.png)
 
 A Spotify Web Player Clone built using HTML5, CSS3, and Font Awesome.
 This project replicates the layout and functionality of Spotify’s web interface — including sidebar navigation, library, playlist cards, and an elegant music player.
