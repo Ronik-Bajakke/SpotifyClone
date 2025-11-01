@@ -107,6 +107,6 @@ Here are a few previews of the project:
 **Ronik Bajakke**  
 
 - 🌍 [GitHub Profile](https://github.com/ronik-bajakke)  
-- 🔗 [Live Project](https://ronik-bajakke.github.io/spotifyClone/)  
+- 🔗 [Live Project](https://ronik-bajakke.github.io/SpotifyClone/)  
 
 ---
