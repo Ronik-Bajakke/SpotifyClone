@@ -107,6 +107,8 @@ Here are a few previews of the project:
 **Ronik Bajakke**  
 
 - 🌍 [GitHub Profile](https://github.com/ronik-bajakke)  
-- 🔗 [Live Project](https://ronik-bajakke.github.io/SpotifyClone/)  
+- 🔗 [Live Project](https://ronik-bajakke.github.io/SpotifyClone/)
+- 📧 Email: ronikbajakke172913@gmail.com<br>
+- 🌐 Portfolio: https://portfolio-nine-lyart-56.vercel.app/
 
 ---
